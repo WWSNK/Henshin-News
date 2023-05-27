@@ -181,11 +181,11 @@ body#layout .art-footer-default {
   font-size: 13px;
   font-weight: 400;
   text-decoration: none;
-    color: #ffcb00 !important;
+    color: #e05a00 !important;
 }
 
 #uds-searchControl .gsc-cursor-page{
-    color: #ffcb00 !important;
+    color: #e05a00 !important;
 }
 
 .gsc-tabsArea{
@@ -199,25 +199,25 @@ body#layout .art-footer-default {
 
 .blog-pager a:link
 {
-    color: #ffcb00;
+    color: #e05a00;
 	text-decoration: none;
 }
 
 .blog-pager a:visited
 {
-    color: #ff9300;
+    color: #c65000;
 	text-decoration: none;
 }
 
 .blog-pager a:active
 {
-    color: #ff9300;
+    color: #c65000;
 	text-decoration: none;
 }
 
 .blog-pager a:hover,
 {
-    color: #ff9300;
+    color: #c65000;
 	text-decoration: none;
 }
 
@@ -383,21 +383,21 @@ ul.art-vmenu a
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .art-postcontent a:visited, .art-postcontent a.visited
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postcontent  a:hover, .art-postcontent a.hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: underline;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postcontent h1
@@ -695,7 +695,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
       z-index: 102;
   width: 48px;
   height: 48px;
-  filter: brightness(0.70) contrast(1.25) saturate(2.49);
+  filter: brightness(1.13);
 }
 
 .art-logo-1320038420:hover
@@ -718,7 +718,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
       z-index: 103;
   width: 48px;
   height: 48px;
-  filter: brightness(0.70) contrast(1.25) saturate(2.49);
+  filter: brightness(1.13);
 }
 
 .art-logo-1184851404:hover
@@ -741,7 +741,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
       z-index: 105;
   width: 48px;
   height: 48px;
-  filter: brightness(0.70) contrast(1.25) saturate(2.49);
+  filter: brightness(1.13);
 }
 
 .art-logo-2033208107:hover
@@ -751,7 +751,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
 }
 
 .art-logo-1786420037
-{  
+{
   position: absolute;
   top: 4px;
   left: 80.78%;
@@ -764,7 +764,7 @@ li p, .art-postcontent li p, .art-blockcontent li p
       z-index: 104;
   width: 48px;
   height: 48px;
-  filter: brightness(0.70) contrast(1.25) saturate(2.49);
+  filter: brightness(1.13);
 }
 
 .art-logo-1786420037:hover
@@ -819,23 +819,28 @@ li p, .art-postcontent li p, .art-blockcontent li p
    margin:30px auto 0;
    background-repeat: no-repeat;
    height: 177px;
-   background-image: url('https://i.imgur.com/EjCf5Ey.png');
+   background-image: url('https://lh3.googleusercontent.com/pw/AL9nZEX7XOHBgZ2D5GMyaQq6pk4vGnR-KuhcoU2ZqsVGvKQnwW9lRHi-N3oLHOZJQu2MnGqOh_4hXF1FzpsYSemu4dS0HQl5JeVLiicPxUFraMo7maOotKA5T7bTLe0f_Cti5Jq1OkHYA98CjvAUwVmHybJ2=w166-h177-no?authuser=0');
    background-position: 0 0;
    position: relative;
    width: 1000px;
    z-index: auto !important;
 }
 
+.art-header:hover
+{
+   background-image: url('https://lh3.googleusercontent.com/pw/AL9nZEXS5DHH6ETAdyfa6ym3d0s3vo8BfqmmG4ZwSb1CVbldWnRsGkV06osUUhNTDGig-9tiHYVH7ZYK1aZ2ftnnGdsWQuHY26epQTnsCO-BbQcpNfQC7dyVcfk8H17kFv-_rLD3bnQUZAERa6o5a1faz2HT=w166-h177-no?authuser=0');
+}
+
 .custom-responsive .art-header
 {
-   background-image: url('https://i.imgur.com/EjCf5Ey.png');
+   background-image: url('https://lh3.googleusercontent.com/pw/AL9nZEX7XOHBgZ2D5GMyaQq6pk4vGnR-KuhcoU2ZqsVGvKQnwW9lRHi-N3oLHOZJQu2MnGqOh_4hXF1FzpsYSemu4dS0HQl5JeVLiicPxUFraMo7maOotKA5T7bTLe0f_Cti5Jq1OkHYA98CjvAUwVmHybJ2=w166-h177-no?authuser=0');
    background-position: 0 0;
 }
 
 .default-responsive .art-header,
 .default-responsive #art-header-bg
 {
-   background-image: url('https://i.imgur.com/EjCf5Ey.png');
+   background-image: url('https://lh3.googleusercontent.com/pw/AL9nZEX7XOHBgZ2D5GMyaQq6pk4vGnR-KuhcoU2ZqsVGvKQnwW9lRHi-N3oLHOZJQu2MnGqOh_4hXF1FzpsYSemu4dS0HQl5JeVLiicPxUFraMo7maOotKA5T7bTLe0f_Cti5Jq1OkHYA98CjvAUwVmHybJ2=w166-h177-no?authuser=0');
    background-position: left center;
    background-size: auto;
 }
@@ -965,7 +970,7 @@ ul.art-hmenu>li>a
    height: 34px;
    cursor: pointer;
    text-decoration: none;
-   color: #ffcb00;
+   color: #e05a00;
    line-height: 34px;
    text-align: center;
 }
@@ -991,7 +996,7 @@ ul.art-hmenu>li>a.active
 {
    padding:0 25px;
    margin:0 auto;
-   color: #ffcb00;
+   color: #e05a00;
    text-decoration: none;
 }
 
@@ -1008,7 +1013,7 @@ ul.art-hmenu>li>a:hover, .desktop ul.art-hmenu>li:hover>a
 }
 ul.art-hmenu>li>a:hover, 
 .desktop ul.art-hmenu>li:hover>a {
-   color: #ff9300;
+   color: #c65000;
    text-decoration: none;
 }
 
@@ -1021,7 +1026,7 @@ ul.art-hmenu>li:before
    left:  -8px;
    width:8px;
    height: 34px;
-   background: url('https://i.imgur.com/c7DfPDb.png') center center no-repeat;
+   background: url('https://lh3.googleusercontent.com/pw/AL9nZEUJ1nE9TgKFm95jDT709MFZNem1tpCgylPq-35idswK6I0FzJfF7CD9ZnzVxDm63sdiadqi_FME5Un_jWAtweI9Tv8zDgo0Z3MPhx6KC9YGoOt5zbwv10dzV96wNa4vjHiN399CoDJPtf1VW0eAOSGs=w8-h34-no?authuser=0') center center no-repeat;
 }
 ul.art-hmenu>li:first-child:before{
    display:none;
@@ -1067,6 +1072,7 @@ ul.art-hmenu ul
    -moz-box-sizing: border-box;
    box-sizing: border-box;
    display: table-cell;
+   vertical-align: top;
 }
 
 /* need only for content layout in post content */ 
@@ -1177,7 +1183,7 @@ button.art-button
    vertical-align: middle;
    white-space: nowrap;
    text-align: center;
-   color: #ffcb00;
+   color: #e05a00;
    margin: 0 5px 0 0 !important;
    overflow: visible;
    cursor: pointer;
@@ -1228,7 +1234,7 @@ input.art-button
    margin:0 auto;
 }
 .art-button.active, .art-button.active:hover {
-   color: #ff9300 !important;
+   color: #c65000 !important;
 }
 
 .art-button.hover, .art-button:hover
@@ -1238,7 +1244,7 @@ input.art-button
    margin:0 auto;
 }
 .art-button.hover, .art-button:hover {
-   color: #ff9300 !important;
+   color: #c65000 !important;
 }
 
 input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="number"], input[type="range"], input[type="tel"], input[type="time"], input[type="week"], textarea
@@ -1247,13 +1253,13 @@ input[type="text"], input[type="password"], input[type="email"], input[type="url
    -webkit-border-radius:4px;
    -moz-border-radius:4px;
    border-radius:4px;
-   border:1px solid #ffcb00;
+   border:1px solid #e05a00;
    margin:0 auto;
 }
 input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="number"], input[type="range"], input[type="tel"], input[type="time"], input[type="week"], textarea
 {
    padding: 4px 0;
-   color: #ffcb00 !important;
+   color: #e05a00 !important;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    font-weight: normal;
@@ -1264,11 +1270,11 @@ input.art-error, textarea.art-error
 {
    background: #FFFFFF;
    background: transparent;
-   border:1px solid #ff9300;
+   border:1px solid #c65000;
    margin:0 auto;
 }
 input.art-error, textarea.art-error {
-   color: #ffcb00 !important;
+   color: #e05a00 !important;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    font-weight: normal;
@@ -1279,7 +1285,7 @@ form.art-search input[type="text"]
    -webkit-border-radius:1px;
    -moz-border-radius:1px;
    border-radius:1px;
-   border:2px solid #ffcb00;
+   border:2px solid #e05a00;
    margin:0 auto;
    width: 100%;
    padding: 4px 0;
@@ -1337,7 +1343,7 @@ form.art-search input[type="submit"], input.art-search-button, a.art-search-butt
    left: 190px;
    display:block;
    border:none;
-   background:url('https://i.imgur.com/lNHsn2h.png') center center no-repeat;
+   background:url('https://lh3.googleusercontent.com/pw/AL9nZEU9OpnJ8O8RehxeCeMGnrliP9phlGoZtZ6xMqoYRZZTY3B0ZesiDnkA2XIhBQnOkng-SDJTz3WcSK9zFBFG2DTUWFzei-ayHuSAzVaQyNt9W96XGwbQZBQ3npitXCzXHT62enTS9fZAnn3Wzg9ClwUE=s16-no?authuser=0') center center no-repeat;
    height:16px;
    width:16px;
    padding:0;
@@ -1476,14 +1482,14 @@ label.art-radiobutton.hovered:before
    line-height: normal;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ffcb00
+   color: #e05a00
 ;
 }
 
 .art-pager .active
 {
    margin:0 0 0 auto;
-   color: #ff9300
+   color: #c65000
 ;
 }
 
@@ -1505,7 +1511,7 @@ label.art-radiobutton.hovered:before
 .art-pager  a.more:hover
 {
    text-decoration: none;
-   color: #ff9300
+   color: #c65000
 ;
 }
 .art-pager>*:after
@@ -1645,7 +1651,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .art-postheader a:visited, .art-postheader a.visited
@@ -1653,7 +1659,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postheader a:hover,  .art-postheader a.hovered
@@ -1661,7 +1667,7 @@ pre
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
    text-align: left;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postheadericons,
@@ -1684,7 +1690,7 @@ pre
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .art-postheadericons a:visited, .art-postheadericons a.visited
@@ -1693,7 +1699,7 @@ pre
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postheadericons a:hover, .art-postheadericons a.hover
@@ -1702,12 +1708,12 @@ pre
    font-weight: normal;
    font-style: normal;
    text-decoration: underline;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postcontent ul>li:before,  .art-post ul>li:before,  .art-textblock ul>li:before
 {
-   content:url('https://i.imgur.com/c7DfPDb.png');
+   content:url('https://lh3.googleusercontent.com/pw/AL9nZEUJ1nE9TgKFm95jDT709MFZNem1tpCgylPq-35idswK6I0FzJfF7CD9ZnzVxDm63sdiadqi_FME5Un_jWAtweI9Tv8zDgo0Z3MPhx6KC9YGoOt5zbwv10dzV96wNa4vjHiN399CoDJPtf1VW0eAOSGs=w8-h34-no?authuser=0');
    margin-right:6px;
    bottom: 2px;
    position:relative;
@@ -1774,7 +1780,7 @@ pre
 
 blockquote
 {
-   background:  url('https://i.imgur.com/LhBLj5v.png') no-repeat scroll;
+   background:  url('https://lh3.googleusercontent.com/pw/AL9nZEWKDst8kEVyptmwyZgWw-sAgruUrTVWRrwF-LVEpP615erycgfirJnvebJQa2Pf1jw-jd8cPNcpC0LQAPdaZ3s_ZWcZnQPkh7h9HggosiohYWFX6BYjQS-tOcgIKRcyhikHZSZ3J6Y_tgiW7XCIbKVD=w51-h37-no?authuser=0') no-repeat scroll;
    padding:10px 10px 10px 47px;
    margin:10px 0 0 25px;
    color: var(--blockquote-color);
@@ -1828,21 +1834,21 @@ blockquote p,
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .art-postfootericons a:visited, .art-postfootericons a.visited
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .art-postfootericons a:hover, .art-postfootericons a.hover
 {
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
-   color: #ff9300;
+   color: #c65000;
 }
 
 .Sorter img
@@ -1893,7 +1899,7 @@ blockquote p,
    padding:20px;
    margin:30px auto 0;
    position: relative;
-   color: #ffcb00;
+   color: #e05a00;
    font-size: 18px;
    font-family: 'Bebas Kai';
    text-decoration: none;
@@ -1910,7 +1916,7 @@ blockquote p,
 .art-footer th,
 .art-footer caption
 {
-   color: #ffcb00;
+   color: #e05a00;
    font-size: 18px;
    font-family: 'Bebas Kai';
    text-decoration: none;
@@ -1927,21 +1933,21 @@ blockquote p,
 .art-footer a,
 .art-footer a:link
 {
-   color: #ffcb00;
+   color: #e05a00;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
 
 .art-footer a:visited
 {
-   color: #ff9300;
+   color: #c65000;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: none;
 }
 
 .art-footer a:hover
 {
-   color: #ff9300;
+   color: #c65000;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
    text-decoration: underline;
 }
@@ -2144,7 +2150,7 @@ blockquote p,
    font-style: normal;
    font-weight: normal;
    text-decoration: underline;
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .art-page-footer
@@ -2284,127 +2290,36 @@ blockquote p,
    transition: 0.3s; 
 }
 
-#título
+#seção1
 {
-   font-weight: bold;
-   text-decoration: none;
-   color: var(--título-color);
-   position: relative;
-   top: -2px;
-   left: 1px;
+   background: -webkit-linear-gradient(0deg, #e05a00 6%, #c65000 0%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-family: 'Bebas Kai';
+   font-size: 28px;
+   letter-spacing: 1px;
 }
 
-#sinopse
+#seção2
 {
-   text-decoration: none;
-   color: var(--sinopse-color);
-   position: relative;
-   top: -0.44em;
+   background: -webkit-linear-gradient(0deg, #e05a00 5%, #c65000 0%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   font-family: 'Bebas Kai';
+   font-size: 28px;
+   letter-spacing: 1px;
 }
-
-#textode
-{
-   text-decoration: none;
-   color: var(--textode-color);
-   position: relative;
-   top: -16px;
-}
-
-@-moz-document url-prefix() 
-{
-#título
-{
-   top: -3px;
-}
-}
-
-@-moz-document url-prefix() 
-{
-#sinopse
-{
-   top: -0.2em;
-}
-}
-
-@-moz-document url-prefix() 
-{
-#textode
-{
-   top: -16px;
-}
-}
-
-#youtube
-{
-   position: relative;
-   top: -9px;
-   left: 5px;
-}
-
-@-moz-document url-prefix() 
-{
-#youtube
-{
-   top: -6.5px;
-}
-}
-
-#plutotv
-{
-   position: relative;
-   top: -9px;
-   left: 5px;
-}
-
-@-moz-document url-prefix() 
-{
-#plutotv
-{
-   top: -6.5px;
-}
-}
-
-#primevideo
-{
-   position: relative;
-   top: -9px;
-   left: 5px;
-}
-
-@-moz-document url-prefix() 
-{
-#primevideo
-{
-   top: -6.5px;
-}
-}
-
-#vix
-{
-   position: relative;
-   top: -9px;
-   left: 5px;
-}
-
-@-moz-document url-prefix() 
-{
-#vix
-{
-   top: -6.5px;
-}
-}
-
 
 #Label1 h2
 {
-   background: -webkit-linear-gradient(0deg, #ffcb00 14%, #ff9300 0%);
+   background: -webkit-linear-gradient(0deg, #e05a00 14%, #c65000 0%);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
 }
 
 #HTML2 h2
 {
-   background: -webkit-linear-gradient(0deg, #ffcb00 29%, #ff9300 0%);
+   background: -webkit-linear-gradient(0deg, #e05a00 29%, #c65000 0%);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
 }
@@ -2421,7 +2336,7 @@ blockquote p,
 
 #disqus_thread a
 {
-   color: #ffcb00;
+   color: #e05a00;
 }
 
 .addthis_inline_share_toolbox
@@ -2443,7 +2358,7 @@ blockquote p,
    background-color: transparent;
    font-family: 'Bebas Kai';
    font-size: 28px;
-   color: #ffcb00;
+   color: #e05a00;
    font-weight: normal;
    font-style: normal;
    text-decoration: none;
@@ -2483,9 +2398,6 @@ blockquote p,
     --art-sheet: #FFFFFF;
     --sidebar1-color: #FFFFFF;
     --art-postheadericons-color: #000000;
-    --título-color: #000000;
-    --sinopse-color: #000000;
-    --textode-color: #000000;
     --blockquote-color: #000000;
     --body-color: #000000;
     --bodybg-color: #FFFFFF;
@@ -2495,9 +2407,6 @@ blockquote p,
     --art-sheet: #121212;
     --sidebar1-color: #121212;
     --art-postheadericons-color: #FFFFFF;
-    --título-color: #FFFFFF;
-    --sinopse-color: #FFFFFF;
-    --textode-color: #FFFFFF;
     --blockquote-color: #FFFFFF;
     --body-color: #FFFFFF;
     --bodybg-color: #121212;
@@ -2550,7 +2459,7 @@ blockquote p,
 }
 
 input:checked + .slider {
-  background-color: #ffcb00;
+  background-color: #e05a00;
 }
 
 input:checked + .slider:before {
@@ -2573,6 +2482,34 @@ input:checked + .slider:before {
 {
     color: var(--body-color);
     opacity: 1; 
+}
+
+.container 
+{
+  display: grid;
+  width: 100%;
+  height: 227px;
+  grid-template-areas: "A B";
+  grid-column-gap: 15px;
+}
+
+.A {
+  grid-area: A;
+}
+.B {
+  grid-area: B;
+  margin-top: -1px;
+  line-height: 14.63px !important;
+}
+.B img{
+  position: relative;
+  top: 8px;
+  margin-right: 5px;
+}
+
+span.sinopse{
+  position: relative;
+  top: 3.5px;
 }
 
 /* End Additional CSS Styles */
@@ -2634,7 +2571,7 @@ ul.art-hmenu>li>span.art-hmenu-separator
    left:  -8px;
    width: 8px;
    height: 34px;
-   background: url('https://i.imgur.com/c7DfPDb.png') center center no-repeat;
+   background: url('https://lh3.googleusercontent.com/pw/AL9nZEUJ1nE9TgKFm95jDT709MFZNem1tpCgylPq-35idswK6I0FzJfF7CD9ZnzVxDm63sdiadqi_FME5Un_jWAtweI9Tv8zDgo0Z3MPhx6KC9YGoOt5zbwv10dzV96wNa4vjHiN399CoDJPtf1VW0eAOSGs=w8-h34-no?authuser=0') center center no-repeat;
 }
 ul.art-hmenu>li:first-child>span.art-hmenu-separator
 {
@@ -3963,7 +3900,7 @@ jQuery(function ($) {
     if (!browser.ie || browser.version > 8)
         return;
     processElementMultiplyBg(".art-header", {
-        "bgimage": "url('https://i.imgur.com/EjCf5Ey.png')",
+        "bgimage": "url('https://lh3.googleusercontent.com/pw/AL9nZEX7XOHBgZ2D5GMyaQq6pk4vGnR-KuhcoU2ZqsVGvKQnwW9lRHi-N3oLHOZJQu2MnGqOh_4hXF1FzpsYSemu4dS0HQl5JeVLiicPxUFraMo7maOotKA5T7bTLe0f_Cti5Jq1OkHYA98CjvAUwVmHybJ2=w166-h177-no?authuser=0')",
         "bgposition": "0 0",
         "images": "",
         "positions": ""
@@ -4317,13 +4254,13 @@ jQuery(function () {
     <div class='art-shapes'>       
             </div>
 <a class='art-logo art-logo-1320038420' href='http://feeds.feedburner.com/HenshinNews' target='_blank' title='RSS Feed'>
-    <img alt='' src='https://i.imgur.com/VcPY90H.png'/>
+    <img alt='' src='https://lh3.googleusercontent.com/pw/AL9nZEUULFiVRtQp6Uz-lxH0m-ctZH03Cm-dkorLMk6bb2dgnvEtLEifeyl7mXDzjJxeV_dRAn70waZAu7hrHzfdao5QCSUwvfrV3wqY7ENkA_hg_glWbHKBcQTUDkfw3o-9pnIwkpwewhtf9RskTowBvfag=s48-no?authuser=0'/>
 </a><a class='art-logo art-logo-1184851404' href='https://discord.gg/ZtwWzj2' target='_blank' title='Discord'>
-    <img alt='' src='https://i.imgur.com/HlbCWWe.png'/>
+    <img alt='' src='https://lh3.googleusercontent.com/pw/AL9nZEWOhNGRxPS8XLq1SdFBP5LEPmiP5-uCoEu9LRGikaF2PmtbQzhQ953Hu3Wt0RdviiHKJ4FIu0h1qGxyNVnXWVC_tXtACnQOKBIJlxv9MmijYwtle2j4qpRpfJi6pOF5sLvN8ACd7fz2n2ln9scoRdbY=s48-no?authuser=0'/>
 </a><a class='art-logo art-logo-2033208107' href='https://twitter.com/HenshinNews' target='_blank' title='Twitter'>
-    <img alt='' src='https://i.imgur.com/i0qEYNG.png'/>
+    <img alt='' src='https://lh3.googleusercontent.com/pw/AL9nZEVO5uAugDBQ9TQ5ebBa9IyDX96FwppEjk7Uf_6WjrUneNoPQg0EvhAd2ZX1xyDsIttoE04KD0k_QS9wEWB04B5MMbcNQ3BmDpF5HXahV1rXkNZ0pCUDlR0lD8XtqMZt4E7gAImUODbtfbZ9-QorgEi-=s48-no?authuser=0'/>
 </a><a class='art-logo art-logo-1786420037' href='https://www.facebook.com/henshinnews/' target='_blank' title='Facebook'>
-    <img alt='' src='https://i.imgur.com/DjCBXpX.png'/>
+    <img alt='' src='https://lh3.googleusercontent.com/pw/AL9nZEXCMfx2QyCBnsBqQm4aTpC8vArbZSz1m746gAItqQ-S_DTYkrlhbcbTDCAUC57VluIrzMMB57l8FMbwGVsoJ6CCOwNk22XKWrjHGOtrJ-aLiT95bqUjxxp6hetUx-LpIw2iaWzSHwgFnnrNou_BYoOA=s48-no?authuser=0'/>
 </a>
 <div class='art-textblock art-object767410992'>
     <form action='/search/max-results=5' class='art-search' name='Search'>
@@ -4377,58 +4314,6 @@ artFixTopPagesMenu();
                 <div class='art-content-layout'>
                     <div class='art-content-layout-row'>
 						<b:section class='art-layout-cell art-sidebar1' id='sidebar1' preferred='yes'>
-<b:widget id='HTML3' locked='false' title='Disqus for henshin-news' type='HTML' version='1'>
-  <b:widget-settings>
-    <b:widget-setting name='content'><![CDATA[<!-- Disqus Widget -->]]></b:widget-setting>
-  </b:widget-settings>
-  <b:includable id='main'>
-<script type='text/javascript'>
-var disqus_shortname = &#39;henshin-news&#39;;
-var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
-if (!disqus_blogger_current_url.length) {
-disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
-}
-var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
-var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
-</script>
-<b:if cond='data:blog.pageType == &quot;item&quot;'>
-<style type='text/css'>
-#comments {display:none;}
-</style>
-<script type='text/javascript'>
-(function() {
-    var bloggerjs = document.createElement(&#39;script&#39;);
-    bloggerjs.type = &#39;text/javascript&#39;;
-    bloggerjs.async = true;
-    bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_item.js&#39;;
-    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
-  document.addEventListener(&#39;themeChanged&#39;, function (e) { 
-    if (document.readyState == &#39;complete&#39;) {
-      DISQUS.reset({ reload: true, config: disqus_config });
-    }
-  });
-})();
-</script>
-</b:if>
-<style type='text/css'>
-.post-comment-link { visibility: hidden; }
-</style>
-<script type='text/javascript'>
-(function() {
-var bloggerjs = document.createElement(&#39;script&#39;);
-bloggerjs.type = &#39;text/javascript&#39;;
-bloggerjs.async = true;
-bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index.js&#39;;
-(document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
-})();
-</script>
-<script> 
-var disqus_config = function () { 
-this.language = &quot;pt_BR&quot;; 
-}; 
-</script>    
-</b:includable>
-</b:widget>
 <b:widget id='HTML5' locked='false' title='' type='HTML'>
   <b:widget-settings>
     <b:widget-setting name='content'><![CDATA[<div class="theme-switch-wrapper"><label class="theme-switch" for="checkbox"><input type="checkbox" id="checkbox" /><div class="slider round"></div></label></div>]]></b:widget-setting>
@@ -4514,22 +4399,6 @@ this.language = &quot;pt_BR&quot;;
 </b:widget>
 </b:section>
                         <b:section class='art-layout-cell art-content' id='main' showaddelement='yes'>
-                          <b:widget id='HTML4' locked='false' title='' type='HTML'>
-                            <b:widget-settings>
-                              <b:widget-setting name='content'><![CDATA[<a href="https://beta.crunchyroll.com/pt-br/series/GMEHMEWK0/fuuto-pi"><img src="https://i.imgur.com/lxtq3Zi.jpg" title="Assista Fuuto PI na Crunchyroll" /></a><br /><br />]]></b:widget-setting>
-                            </b:widget-settings>
-                            <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2 class='title'><data:title/></h2>
-  </b:if>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-
-  <b:include name='quickedit'/>
-</b:includable>
-                          </b:widget>
                           <b:widget id='Blog1' locked='true' title='Postagens no blog' type='Blog' version='1'>
                             <b:widget-settings>
                               <b:widget-setting name='showDateHeader'>true</b:widget-setting>
@@ -5458,6 +5327,58 @@ google.setOnLoadCallback(initialize);
     </div>
     </div>
   </div>
+</b:includable>
+                          </b:widget>
+                          <b:widget id='HTML3' locked='false' title='Disqus for henshin-news' type='HTML' version='1'>
+                            <b:widget-settings>
+                              <b:widget-setting name='content'><![CDATA[<!-- Disqus Widget -->]]></b:widget-setting>
+                            </b:widget-settings>
+                            <b:includable id='main'>
+<script type='text/javascript'>
+var disqus_shortname = &#39;henshin-news&#39;;
+var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+if (!disqus_blogger_current_url.length) {
+disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+}
+var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+</script>
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+<style type='text/css'>
+#comments {display:none;}
+</style>
+<script type='text/javascript'>
+(function() {
+    var bloggerjs = document.createElement(&#39;script&#39;);
+    bloggerjs.type = &#39;text/javascript&#39;;
+    bloggerjs.async = true;
+    bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_item.js&#39;;
+    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+  document.addEventListener(&#39;themeChanged&#39;, function (e) { 
+    if (document.readyState == &#39;complete&#39;) {
+      DISQUS.reset({ reload: true, config: disqus_config });
+    }
+  });
+})();
+</script>
+</b:if>
+<style type='text/css'>
+.post-comment-link { visibility: hidden; }
+</style>
+<script type='text/javascript'>
+(function() {
+var bloggerjs = document.createElement(&#39;script&#39;);
+bloggerjs.type = &#39;text/javascript&#39;;
+bloggerjs.async = true;
+bloggerjs.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/blogger_index.js&#39;;
+(document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+})();
+</script>
+<script> 
+var disqus_config = function () { 
+this.language = &quot;pt_BR&quot;; 
+}; 
+</script>    
 </b:includable>
                           </b:widget>
                         </b:section>
