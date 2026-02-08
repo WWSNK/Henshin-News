@@ -1,9 +1,6 @@
 #header, #Header1 {
     height: 100%;
 }
-body { 
-    background: red !important; 
-}
 .art-nav {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
